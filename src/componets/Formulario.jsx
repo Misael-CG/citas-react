@@ -1,7 +1,7 @@
 const Formulario = () => {
   return (
     <div>
-      <h2>Formulario prueba git</h2>
+      <h2>Formulario</h2>
     </div>
   );
 };
