@@ -5,7 +5,6 @@ function Headers() {
         Seguimiento Paciente {""}
         <span className="text-indigo-600">Veterinaria</span>
       </h1>
-      <p>hola</p>
     </>
   );
 }
